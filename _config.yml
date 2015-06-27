@@ -1,14 +1,12 @@
 # Site settings
 title: Vertigo Solutions LLP
-email: varun@vertigosolutions.in
+email: info@vertigosolutions.in
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Vertigo is working hard towards creating simple technology products which can encapsulate complex business logic.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://vertigosolutions.in" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: consultvertigo
+github_username:
 
 # Build settings
 markdown: kramdown

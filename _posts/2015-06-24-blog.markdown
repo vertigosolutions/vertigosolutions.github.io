@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Blog!"
+date:   2015-06-24 00:00:00
+categories: Information Security
+---
+
+Let's start with the pointers from The Global State of Information Security Survey 2015 by PwC
+
+* Huge `41 %` jump in the security incident detected in Europe over 2013
+* `92 %` increase in the number of organization which reported more than `$20 million` of financial hits over 2013
+* There is `48%` increase in the security incident detected over 2013
+
+These numbers indicate that we may have improved upon our technology arsenal over the period of time but possibly our approach towards the **Information Security Program** still remains traditional or at the least **not modern**.
+
+This thought will surely be crossing every CXO and information security manager today that why after spending considerable amount of money for information security, they still see a rise in the number of security incidents and number of incidents which they are not able to manage (hence ending in a compromise of either resource or asset)
+
+As per key findings of The Global State of Information Security Survey 2015 conducted by PwC, there is a huge 41% of jump in the security incident detected in Europe as compared to 2013 numbers. `Total this increase is 48% over 2013`.
+
+Technology can play an important but limited role in countering these incidents and the most important asset which any company needs today is skilled mind set which can manage these situations. 
