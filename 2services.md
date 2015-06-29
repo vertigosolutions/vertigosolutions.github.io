@@ -4,7 +4,7 @@ title: Services
 permalink: /services/
 ---
 
-Please [get in touch](mailto:info@vertigosolutions.in) for the following functions and activities. We offer envious skill set to you to get the work done with perfection.
+Please [get in touch](<mailto:info@vertigosolutions.in>) for the following functions and activities. We offer envious skill set to you to get the work done with perfection.
 
 * Mobile Solutions
 * Location Aware Solution
