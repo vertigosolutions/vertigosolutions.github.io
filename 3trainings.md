@@ -26,7 +26,7 @@ permalink: /trainings/
 
 The recommanded duration for this classromm program is **6 Days** however it can be modified to fit the busy schedule of Trainees.
 
-[Get in touch](info@vertigosolutions.in) to organise this training at your premise 
+[Get in touch](<mailto:info@vertigosolutions.in>) to organise this training at your premise 
 
 
 ---
@@ -46,7 +46,7 @@ This course is spread over 4 Domains
 
 The recommanded duration for this classromm program is **6 Days** however it can be modified to fit the busy schedule of Trainees.
 
-[Get in touch](info@vertigosolutions.in) to organise this training at your premise 
+[Get in touch](<mailto:info@vertigosolutions.in>) to organise this training at your premise 
 
 ---
 
@@ -76,6 +76,6 @@ Archer Administrator who are responsible for creating and managing the RSA Arche
 
 The recommanded duration for this classromm program is **8 Days**. Due to nature of the course and participants involved ( mosting system administrators), it is strongly recommanded to adhere to course time line provided by us. The course outlines takes care of only half day class so that the partipants do not detach themselfs from the daily operations.
 
-[Get in touch](info@vertigosolutions.in) to organise this training at your premise 
+[Get in touch](<mailto:info@vertigosolutions.in>) to organise this training at your premise 
 
 ---
